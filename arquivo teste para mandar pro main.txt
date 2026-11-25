@@ -1,0 +1,3 @@
+para encaminhar arquivos para a main ou para outros branchs
+
+git merge ____ -- executar comando na branch de desitno e colocar na area tracejada a branch de origem
