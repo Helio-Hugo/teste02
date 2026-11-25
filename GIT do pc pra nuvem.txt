@@ -1,3 +1,6 @@
 GIT do pc pra nuvem
 
 git init - inicia um repositorio git
+
+git branch -M main -- muda o nome de master pra main
+git remote add origin ________-- adiciona o destino remoto da nuvem do github
