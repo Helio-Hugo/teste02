@@ -1,3 +1,6 @@
 para encaminhar arquivos para a main ou para outros branchs
 
 git merge ____ -- executar comando na branch de desitno e colocar na area tracejada a branch de origem
+
+
+após fazer um merge, nao necessita fazer um commit ou um add porque ja foi feita nas demais branchs
