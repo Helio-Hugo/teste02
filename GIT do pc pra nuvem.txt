@@ -12,3 +12,6 @@ git branch ____ -- criar uma branch
 git branch -- lista as branch
 git checkout ____ -- entra na branch desejada
 
+
+
+alteração pelo vs code
