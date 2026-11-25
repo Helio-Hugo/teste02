@@ -1,0 +1,3 @@
+GIT do pc pra nuvem
+
+git init - inicia um repositorio git
